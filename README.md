@@ -15,7 +15,7 @@ This repository contains a comprehensive Jupyter notebook that demonstrates how 
 
 ### Prerequisites
 - Python 3.7+
-- Google API Key (get one at [ai.google.dev](https://ai.google.dev))
+- Google API Key (get one at [aistudio.google.com](https://aistudio.google.com/api-keys)
 - Jupyter Notebook environment (for Colab compatibility)
 
 ### Installation
@@ -76,7 +76,5 @@ pip install -q -U google-genai
 - Information retrieval
 
 ## Resources
-- [Gemini API Documentation](https://ai.google.dev/gemini-api/docs/models/gemini)
-- [Google Generative AI Python SDK](https://github.com/google/generative-ai-python)
 - [Embedding API Guide](https://ai.google.dev/gemini-api/docs/embeddings)
 - [Medium](https://iamshobhitagarwal.medium.com/googles-gemini-embedding-2-the-silent-release-that-could-change-enterprise-ai-forever-a9314289910b)
